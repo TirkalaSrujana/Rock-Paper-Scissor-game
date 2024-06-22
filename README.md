@@ -30,3 +30,6 @@ else:: Otherwise (computer chose paper), paper covers rock, so the user loses. A
 Similar logic applies for elif user_action== "paper" and else: (user chose paper or scissor) with checks for computer's choices and corresponding win/lose messages.
 
 Overall, this code provides a simple and interactive way to play Rock-Paper-Scissors against the computer in Python
+
+# Acknowledgment:
+This section of code utilizes techniques learned during the Workshop organized by the Learning Links Foundation.
