@@ -32,4 +32,5 @@ Similar logic applies for elif user_action== "paper" and else: (user chose paper
 Overall, this code provides a simple and interactive way to play Rock-Paper-Scissors against the computer in Python
 
 # Acknowledgment:
-This section of code utilizes techniques learned during the Workshop organized by the Learning Links Foundation.
+This section of code utilizes techniques learned during the Women and AI Workshop organized by the Learning Links Foundation.
+
